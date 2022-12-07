@@ -1,0 +1,92 @@
+= Introduction
+
+== Description
+Enter a meaningful description of the project, the contractor and why this project is done. Show the focus of the project by using the prioritisation according to the magic triangle of project management.
+
+plantuml::../files/magic_triangle.puml[title="Prioritisation in the magic triangle"]
+
+== Project Profile
+[%autowidth,cols="~h,~"]
+|===
+| *Project ID:*
+| xyz-w
+
+| *Project name:*
+| Awesome Project
+
+| *Client:*
+| Company name of the contractor and spokesperson
+
+| *Project management:*
+| Names of the project managers
+
+| *Project goal:*
+| Fancy project goal
+
+| *Project contents:*
+a|
+* These
+* are
+* high-level
+* project
+* goals.
+
+| *Project environment:*
+| Short overview of the project environment and the most important stakeholders.
+|===
+
+[%autowidth.stretch,cols="~h,~,~,~,~"]
+|===
+.6+| *Planned deadlines:*
+| Project start:
+| YYYY-MM-DD
+| Project finish:
+| YYYY-MM-DD
+
+4+| *Project phases:*
+
+2+| Name:
+| Start:
+| End:
+
+2+| Alpha phase
+| YYYY-MM-DD
+| YYYY-MM-DD
+
+2+| Beta phase
+| YYYY-MM-DD
+| YYYY-MM-DD
+
+2+| Release phase
+| YYYY-MM-DD
+| YYYY-MM-DD
+|===
+
+[%autowidth.stretch,cols="2"]
+|===
+2+| *Others involved in the project:*
+
+| Internal:
+| Internal stakeholder groups
+
+| External:
+| External stakeholder groups
+
+| Power promoter:
+| Name(s) of the power promoter(s)
+
+| Specialist promoter:
+| Name(s) of the specialist promoter(s)
+|===
+
+[%autowidth.stretch,cols="1"]
+|===
+| *Project risks/hindrances:*
+
+a|
+* List
+* of
+* high-level
+* project
+* risks
+|===
