@@ -22,7 +22,7 @@ base:
     font-size: 12
     line-height-length: 17
     line-height: $base-line-height-length / $base-font-size
-    vertical-spacing: $base-line-height-length
+    margin-bottom: $base-line-height-length
 #literal:
 #    font-family: WorkSans
 heading:
@@ -36,7 +36,7 @@ heading:
     h6-font-size: $base-font-size * 1.1
     font-style: normal
     line-height: 1.2
-    margin-bottom: $vertical-spacing
+    margin-bottom: $base-line-height-length
     chapter:
         break-before: auto
 link:
