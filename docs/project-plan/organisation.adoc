@@ -1,0 +1,111 @@
+= Organisation and information
+
+== Project organisation
+Describe the project coordination organisation and give a in-depth view into the organisation structure.
+
+== Description of the roles with task, competence and responsibility
+.TCR matrix
+[%autowidth.stretch,cols="4",options="header"]
+|===
+| Role
+| Tasks
+| Competence (authority)
+| Responsibility
+
+| Project Manager
+a|
+* Project planning and controlling
+* Leading the project team
+a|
+* Go/NoGo vote on milestones
+* Accept or reject feature requests
+a|
+* Achievement of the objectives
+* Adherence to schedule
+
+| Another role
+a|
+a|
+a|
+|===
+
+== RACI
+=== Feature selection
+.RACI for feature selection
+[%autowidth.stretch,cols="h,~",options="header"]
+|===
+| Tasks/Function
+| Project Manager
+| Product Manager
+
+| 1. Feature selection
+|
+|
+
+| 1.1 Collect and sort JIRA features
+| R
+| A, R
+
+| 1.2 Collect TAM feedback
+| R
+| A, R
+|===
+*Key:* \(R)esponsible (responsibility for *doing* the work), (A)ccountable (accountability for *results*), \(C)onsulting, (I)nformed
+
+//TODO this RACI table should include all roles from the TCR matrix involved in it
+
+== Communication
+=== Stakeholder based communication matrix
+.Stakeholder based communication matrix
+[%autowidth.stretch,cols="7",options="header"]
+|===
+| ID
+| TO WHOM
+| WHO (is responsible)
+| HOW
+| HOW MUCH
+| WHAT
+| WHEN
+
+| xyz-SE-001
+| Name of receiver
+| Name of sender
+a|
+* e-mail
+* quarterly business meeting
+a|
+* single-page mail
+* presentation
+* press release
+a|
+* deadlines
+* feature request workflow
+* significant changes to the product
+| monthly to quarterly
+|===
+
+=== Event based communication matrix
+.Event based communication matrix
+[%autowidth.stretch,cols="8",options="header"]
+|===
+| ID
+| Event
+| TO WHOM
+| WHO (is responsible)
+| HOW
+| HOW MUCH
+| WHAT
+| WHEN
+
+| xyz-SI-001
+| Delay of a deliverable
+| Name of receiver
+| Name of sender
+a|
+* e-mail
+a|
+* single-page mail
+a|
+* information of the expected new date of delivery
+| once a delay is to be expected
+|===
