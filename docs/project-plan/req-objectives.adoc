@@ -1,0 +1,141 @@
+= Requirements and objectives
+
+== Objectives
+To reduce friction and misunderstanding in the project, the targets are defined following the https://en.wikipedia.org/wiki/SMART_criteria[SMART criteria]. Targets should be specific, measurable, attainable, realistic and timely. This way targets can be checked at any given point of time during the project.
+
+In addition to defining the targets it is also important to state the non-targets that are not going to be achieved by the project.
+
+=== Project objective
+.Project objectives
+[%autowidth.stretch,cols="2",options="header"]
+|===
+| ID
+| Description
+
+| 001
+| Short description of the (first) project objective
+|===
+
+=== Performance objectives
+.Performance objectives
+[%autowidth.stretch,cols="5"]
+|===
+.2+| *ID*
+.2+| *Description*
+3+| [.nowrap]#*Category*#
+| *m*
+| *s*
+| *c*
+
+| xyz-PO-001
+| First must-have performance objective.
+| x
+|
+|
+|===
+*Key:* Category = must, should, can
+
+=== Schedule objectives
+.Schedule objectives
+[%autowidth.stretch,cols="5"]
+|===
+.2+| *ID*
+.2+| *Description*
+3+| [.nowrap]#*Category*#
+| *m*
+| *s*
+| *c*
+
+| xyz-DL-001
+| First must-have schedule objective.
+| x
+|
+|
+|===
+*Key:* Category = must, should, can
+
+=== Cost objectives
+.Cost objectives
+[%autowidth.stretch,cols="5"]
+|===
+.2+| *ID*
+.2+| *Description*
+3+| [.nowrap]#*Category*#
+| *m*
+| *s*
+| *c*
+
+| xyz-CO-001
+| First should-have cost objective.
+|
+| x
+|
+|===
+*Key:* Category = must, should, can
+
+=== Social objectives
+.Social objectives
+[%autowidth.stretch,cols="5"]
+|===
+.2+| *ID*
+.2+| *Description*
+3+| [.nowrap]#*Category*#
+| *m*
+| *s*
+| *c*
+
+| xyz-SO-001
+| First can-have social objective.
+|
+|
+| x
+|===
+*Key:* Category = must, should, can
+
+=== Non-objectives
+.Non-objectives
+[%autowidth.stretch,cols="5"]
+|===
+.2+| *ID*
+.2+| *Description*
+3+| [.nowrap]#*Category*#
+| *m*
+| *s*
+| *c*
+
+| xyz-NO-001
+| First must-not-have non-objective.
+| x
+|
+|
+
+| xyz-NO-002
+| A should-not non-objective.
+|
+| x
+|
+|===
+*Key:* Category = mustn't, shouldn't, can't
+
+== Comparison and prioritisation of competing objectives
+It is important to be aware of the relationships in between objectives. In general the relationship between two objectives can be differentiated into identical, complementary, neutral, competing and contradictory objective relationships. Objectives that contradict or compete with each other require an analysis and prioritisation in cooperation with the contractor.
+
+// TODO check if there are any contradictory objectives in the project and add a table for them
+There are no contradictory objectives in this project. Following competing objectives were spotted and prioritised:
+
+.Competing objectives
+[%autowidth.stretch,cols="6",options="header"]
+|===
+2+| Objective conflict (competing)
+| Priority 1
+| Priority 2
+| Clarification
+| Measures
+
+| xyz-PO-001 First must-have performance objective
+| xyz-DL-001 First must-have schedule objective
+| SLE15SP4-PO-001
+| SLE15SP4-DL-001
+| A reasoning why xyz-PO-001 is prioritised over xyz-DL-001 and which measures are taken in case they should compete.
+|
+|===
