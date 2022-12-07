@@ -1,0 +1,45 @@
+= Resources
+Considering the project schedule and scope, it is now possible to create a resource histogram for the personnel and material resources required for the project.
+
+The responsible department head for the related resource has agreed on its availability.
+
+== Required resources
+
+=== Personnel resources
+.Personnel resources
+[%autowidth.stretch,cols="3",options="header"]
+|===
+| Type of resource
+| Qualification
+| Availability in h/week
+
+| Software Engineer
+a|
+* Intermediate Python coding skills
+* Fluent English language skills
+* Experience with Docker containers
+| 40
+|===
+
+=== Material resources
+.Material resources
+[%autowidth.stretch,cols="3",options="header"]
+|===
+| Type of resource
+| Qualification //TODO find a better column name for this
+| Availability
+
+| VPS type-small
+a|
+* 2 CPU-threads
+* 2 GB RAM
+* 20 GB HDD
+* 1 TB/month network traffic
+* openSUSE Tumbleweed
+| 24h/7d
+|===
+
+== Resource assignment plan
+To identify bottlenecks, the resource demand and plan appropriate countermeasures, a graphical depiction in form of a resource histogram is chosen. This graphic provides visibility on possible resource conflicts by comparing resource demand and resource inventory.
+
+//TODO insert graphic from a proper planning tool

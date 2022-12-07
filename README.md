@@ -1,6 +1,8 @@
 # Project Plan Template
 An ASCIIdoc template for a project plan following IPMA standards, which can be released on Confluence by using the `confluencepublisher/confluence-publisher:0.0.0-SNAPSHOT` container.
 
+The chapters for "Scope", "Controlling", "Finance" and "Resources" are kept short, as the expectation is, that other tools like Jira provide a better overview for this purpose.
+
 ## Build PDF
 ```bash
 cd docs/project-plan

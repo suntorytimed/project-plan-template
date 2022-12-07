@@ -1,0 +1,7 @@
+= Finance
+
+== Budget calculation
+//TODO provide input from a different tool
+
+== Cost calculation
+//TODO provide input from a different tool

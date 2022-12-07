@@ -1,0 +1,8 @@
+= Scope
+
+== Work Breakdown Structure
+The work breakdown structure (WBS) divides the project into various subtasks, that in turn are divided into work packages. It provides an overview of the whole project and serves as a base for any further planning.
+//TODO decide on the kind of structure you want to use and provide a graphical representation of the WBS from a different tool
+
+== Work packages
+//TODO provide input from a different tool, e. g. a Jira query result. In case you want to write it directly in the document a work package should contain following information: project name, project ID, WP name, WP ID, creation date, version, responsible, client, start, end, objective/activity description, results/deliverables, interfaces to other work packages, activities/deadlines, resources required (personnel, material), duration, effort, costs (total, personnel, material), progress measurement technique including targets, risks, prepared by, approved by

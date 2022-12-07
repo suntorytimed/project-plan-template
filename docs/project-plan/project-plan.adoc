@@ -19,8 +19,12 @@ include::risk-opportunity.adoc[]
 
 include::organisation.adoc[]
 
+include::scope.adoc[]
+
 include::time.adoc[]
 
 include::resources.adoc[]
 
 include::finance.adoc[]
+
+include::controlling.adoc[]
