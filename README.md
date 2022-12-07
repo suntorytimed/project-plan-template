@@ -16,7 +16,7 @@ asciidoctor -a stylesheet=../stylesheets/style.css -r asciidoctor-diagram projec
 ```
 
 ## Release via Confluence Publisher Docker image to Confluence
-PAGE_TITLE_PREFIX, PAGE_TITLE_SUFFIX, VERSION_MESSAGE and MINOR_EDIT are optional. Be very careful with the SPACE_KEY and ANCESTOR_ID, as it will delete everything below the ANCESTOR_ID => don't use the Space homepage!
+`PAGE_TITLE_PREFIX`, `PAGE_TITLE_SUFFIX`, `VERSION_MESSAGE` and `MINOR_EDIT` are optional. Be very careful with the `SPACE_KEY` and `ANCESTOR_ID`, as it will delete everything below the `ANCESTOR_ID` => don't use the Space homepage!
 ```bash
 docker run --rm -e ROOT_CONFLUENCE_URL=https://confluence.example.com \
    -e USERNAME=username \
