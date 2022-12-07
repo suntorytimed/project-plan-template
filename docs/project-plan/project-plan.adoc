@@ -1,0 +1,26 @@
+= Project Plan
+©CC0-1.0
+ProjectID-v0.1, YYYY-MM-DD
+:revision: ProjectID-v0.1, YYYY-MM-DD
+:doctype: book
+:title-page:
+:toc:
+:toclevels: 1
+
+include::introduction.adoc[]
+
+include::req-objectives.adoc[]
+
+include::quality.adoc[]
+
+include::stakeholders.adoc[]
+
+include::risk-opportunity.adoc[]
+
+include::organisation.adoc[]
+
+include::time.adoc[]
+
+include::resources.adoc[]
+
+include::finance.adoc[]
