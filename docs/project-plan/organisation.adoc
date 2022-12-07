@@ -32,7 +32,7 @@ a|
 == RACI
 === Feature selection
 .RACI for feature selection
-[%autowidth.stretch,cols="h,~",options="header"]
+[%autowidth.stretch,cols="<.<h,2*^.<~",options="header"]
 |===
 | Tasks/Function
 | Project Manager
