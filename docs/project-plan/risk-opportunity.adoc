@@ -1,0 +1,78 @@
+= Risk and opportunity
+Risks should be identified early in the project. By doing so, measures can be defined proactively, which can lower either the possibility or impact of the risk. It is also good to know the possible opportunities that could benefit the project and how to amplify them.
+
+== Risks (in a project with budgeting)
+.Risk analysis
+[%autowidth.stretch,cols="8",options="header"]
+|===
+| ID
+| Risk
+| Risk type
+| Cause
+| Effect
+| PO1 [%]
+| CQ1 [TEUR]
+| RV1 [TEUR]
+
+| xyz-R-001
+|
+|
+|
+|
+|
+|
+|
+|===
+*Key:* PO = probability of occurence, CQ = consequences, RV = risk value = PO x CQ
+
+== Preventive and corrective measures (in a project with budgeting)
+.Preventive and corrective measures
+[%autowidth.stretch,cols="7",options="header"]
+|===
+| ID
+| (P)reventive and (c)orrective measures
+| Costs of the measures [TEUR]
+| PO2 [%]
+| CQ2 [TEUR]
+| RV2 [TEUR]
+| Implementation
+
+.2+| xyz-R-001
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|===
+*Key:* PO = probability of occurence, CQ = consequences, RV = risk value = PO x CQ
+
+== Opportunities (in a project with budgeting)
+.Opportunity analysis
+[%autowidth.stretch,cols="8",options="header"]
+|===
+| ID
+| Opportunity
+| Cause
+| Effect
+| PO1 [%]
+| CQ1 [TEUR]
+| OV1 [TEUR]
+| Measure
+
+| xyz-O-001
+|
+|
+|
+|
+|
+|
+|
+|===
+*Key:* PO = probability of occurence, CQ = consequences, OV = opportunity value = PO x CQ
