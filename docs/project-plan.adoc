@@ -1,0 +1,11 @@
+= Project Plan Important Information
+
+[IMPORTANT]
+====
+Please ignore the sub-page https://confluence.example.com/display/spacename/Project+Plan[Project Plan]. It is used for creating the pdf and html version of this project plan.
+====
+
+[IMPORTANT]
+====
+When providing feedback please do so via comments below the pages and not as inline comments. Those will be marked as resolved as soon as the page gets republished with changes to the content.
+====
