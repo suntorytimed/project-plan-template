@@ -1,0 +1,60 @@
+extends: default
+font:
+    catalog:
+        WorkSans:
+            normal: WorkSans-Regular.ttf
+            italic: WorkSans-Italic.ttf
+            bold: WorkSans-Bold.ttf
+            bold_italic: WorkSans-BoldItalic.ttf
+        M+ 1mn:
+            normal: mplus-1mn-regular.ttf
+            italic: mplus-1mn-thin.ttf
+            bold: mplus-1mn-bold.ttf
+            bold_italic: mplus-1mn-light.ttf
+title-page:
+    font-family: WorkSans
+    logo-image: image:logo.svg[]
+    title:
+        font-color: #30BA78
+        font-family: WorkSans
+base:
+    font-family: WorkSans
+    font-size: 12
+    line-height-length: 17
+    line-height: $base-line-height-length / $base-font-size
+    vertical-spacing: $base-line-height-length
+#literal:
+#    font-family: WorkSans
+heading:
+    font-family: WorkSans
+    font-color: #0C322C
+    h1-font-size: $base-font-size * 2
+    h2-font-size: $base-font-size * 1.8
+    h3-font-size: $base-font-size * 1.5
+    h4-font-size: $base-font-size * 1.3
+    h5-font-size: $base-font-size * 1.2
+    h6-font-size: $base-font-size * 1.1
+    font-style: normal
+    line-height: 1.2
+    margin-bottom: $vertical-spacing
+    chapter:
+        break-before: auto
+link:
+    font-color: #30BA78
+outline-list:
+    indent: $base-font-size * 1.5
+footer:
+    height: $base-line-height-length * 2.5
+    line-height: 1
+    recto:
+        right:
+            content: '{page-number}'
+        left:
+            content: '{author} / {revision}'
+    verso:
+        left:
+            content: $footer-recto-right-content
+        right:
+            content: $footer-recto-left-content
+thematic-break:
+    border-color: #FF6A52
