@@ -1,0 +1,62 @@
+= Stakeholders
+
+== Environment portfolio
+The project environment defines the environment in which the project is formulated, evaluated and undertaken. This environment can have two types of influences on the project:
+
+* direct or indirect
+* internal or external
+
+For the success of the project it is important to be aware of key factors, that influence this environment. This needs to be done at the start of the project and is a foundation of the stakeholder analysis. A continuous monitoring of the project environment is important to react early on to changes.
+
+.Project environment portfolio
+[%autowidth.stretch,cols="h,~,~",options="header"]
+|===
+|
+| Social
+| Factual
+
+| External
+a|
+* xyz-SE-001 Social external stakeholder name
+a|
+* xyz-FE-001 Factual external stakeholder
+| Internal
+a|
+* xyz-SI-001 Social internal stakeholder name
+a|
+* xyz-FI-001 Factual internal stakeholder
+|===
+
+== Stakeholder analysis
+Project stakeholders are involved in the project based on differing interests and targets. They are affected by the project and have a justified interest in the project and its benefits and downfalls. The stakeholder analysis is required to identify negative influences and devise countermeasures early in the process. It can also help to identify positive effects and take advantage of them. The analysis provides an overview of the concerns, influences, expectations and fears, attitude, potential for conflict and measures for managing different stakeholders.
+
+.Stakeholder analysis
+[%autowidth.stretch,cols="9",options="header",orientation="landscape"]
+|===
+| ID
+| Stakeholder group
+| Concern (l,m,h)*
+| Influence/power (l,m,h)*
+| (E)xpectations / (F)ears
+| Attitude (+,o,-)**
+| Potential for conflict (l,m,h)*
+| Measures for managing the stakeholder group
+| Strategy***
+
+| xyz-SE-001
+| Social external stakeholder name
+| m
+| m
+a|
+(E) stable release
+(E) implementation of feature requests
+| o
+| m
+| Enquire about expectations and inform often, provide early builds for testing
+| P
+|===
+*Key:* * low, medium, high / +**+ + = positive, o = neutral, - = negative / +***+ Participative, Discursive, Informative, Repressive
+
+== Stakeholder portfolio
+
+//TODO need to decide how to graphically represent this portfolio, or if we just put in a traffic light column in the stakeholder analysis
