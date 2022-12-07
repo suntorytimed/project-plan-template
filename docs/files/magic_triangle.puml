@@ -1,0 +1,11 @@
+[plantuml, magic_triangle, png]
+....
+@startuml
+"Prio 1: Performance" as (P1)
+"Prio 2: Time" as (P2)
+"Prio 3: Costs" as (P3)
+(P1) -down- (P2)
+(P1) -down- (P3)
+(P2) -right- (P3)
+@enduml
+....
